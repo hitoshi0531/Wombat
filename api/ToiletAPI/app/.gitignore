@@ -1,0 +1,2 @@
+#Exclude ENV file from git repo
+/.env
