@@ -60,6 +60,9 @@ target/
 /.env
 .env
 
+# Test ipynb
+/test.ipynb
+
 # Database
 *.db
 *.rdb
